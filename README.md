@@ -4,7 +4,6 @@
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/egar03/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/EidanGar1339"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=EidanGar&style=flat-square&color=blue" alt="Profile_Views"/>
