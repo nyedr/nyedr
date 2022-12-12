@@ -22,7 +22,7 @@
 <h1>About me:</h1>
 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python and JavaScript Programming
+- 🌱 I’m currently learning React Router and more Advanced TypeScript
 - 💞️ I’m looking to collaborate on some programming projects in order to build up my resume
 - 📫 You can reach me at eidangar1339@gmail.com
 
