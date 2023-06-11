@@ -19,7 +19,7 @@
 <h1>About me:</h1>
 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning TailwindCSS
+- 🌱 I’m currently learning TailwindCSS, MySQL, PostgreSQL, and Nextjs
 - 💞️ I’m looking to collaborate on some programming projects in order to build up my resume
 - 📫 You can reach me at eidangar1339@gmail.com
 
