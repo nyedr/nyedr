@@ -19,7 +19,7 @@
 <h1>About me:</h1>
 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning TailwindCSS, MySQL, PostgreSQL, and Nextjs
+- 🌱 I’m currently learning MySQL, PostgreSQL, and NodeJS
 - 💞️ I’m looking to collaborate on some programming projects in order to build up my resume
 - 📫 You can reach me at eidangar1339@gmail.com
 
@@ -36,6 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" **alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" **alt="bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" **alt="bootstrap" width="40" height="40"/>
 </div>
 
 ---
