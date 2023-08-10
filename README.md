@@ -3,10 +3,10 @@
   Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" /></p>
 <h1>About me:</h1>
 
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Engineering an AI
 - 🌱 I’m currently learning C# and GraphQL
 - 💞️ I’m looking to collaborate on some programming projects in order to build up my resume
 
